@@ -93,7 +93,7 @@ fastapi-project
 └── alembic.ini
 ```
 
-```
+
 1. 将所有领域目录存储在`src`文件夹中
    1. `src/` - 应用的最高级别，包含通用模型、配置和常量等。
    2. `src/main.py` - 项目的根文件，用于初始化FastAPI应用
