@@ -9,8 +9,6 @@ Here are some lessons worth sharing.
 > terse, machine-readable format with a version matrix, Do/Don't blocks, and an
 > anti-patterns checklist.
 
-**Tested against:** Python 3.11+ · FastAPI 0.115+ · Pydantic 2.7+ · SQLAlchemy 2.0+ · Alembic 1.13+ · httpx 0.27+ · PyJWT 2.9+ · ruff 0.6+
-
 *[简体中文](./README_ZH.md)*
 
 ## Contents  <!-- omit from toc -->
